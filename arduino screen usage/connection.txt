@@ -1,0 +1,23 @@
+screen 16 x 2 LCD
+
+LCD -----> ARDUINO
+
+GND -----> GNG
+VDD -----> 5V
+VO  -----> POTENTIOMETER MIDDLE
+RS  -----> 12
+RW  -----> GND
+E   -----> 11
+D0  -----> GND
+D1  -----> GND
+D2  -----> GND
+D3  -----> GND
+D4  -----> 5
+D5  -----> 4
+D6  -----> 3
+D7  -----> 2
+BLA -----> 5V (DIMNESS OF THE SCREEN, HIGHER VOLTAGE HIGHER LIGHT)
+BLK -----> GND
+
+POTENTIOMETER LFT  ---> 5V
+POTENTIOMETER RHT  ---> GND
